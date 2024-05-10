@@ -1,0 +1,7 @@
+There is quite a bit of data, so here is a link to where it can be downloaded:
+
+https://www.kaggle.com/competitions/elo-merchant-category-recommendation/
+
+
+Below is the link to all the intermediate data and predictions:
+https://drive.google.com/drive/folders/11SmrYzmu7nNvwwTanhhGgcKyPqJDZqB_?usp=sharing
